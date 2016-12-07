@@ -91,3 +91,6 @@ ENV/
 *.pyc
 *.sublime-project
 *.sublime-workspace
+
+*.sublime-package
+create_subl_package.py
